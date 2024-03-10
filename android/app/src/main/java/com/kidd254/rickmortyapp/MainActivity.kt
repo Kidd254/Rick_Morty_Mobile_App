@@ -1,4 +1,4 @@
-package com.rickmorty
+package com.kidd254.rickmortyapp
 
 import android.os.Build
 import android.os.Bundle

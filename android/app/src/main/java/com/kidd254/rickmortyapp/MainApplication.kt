@@ -1,4 +1,4 @@
-package com.rickmorty
+package com.kidd254.rickmortyapp
 
 import android.app.Application
 import android.content.res.Configuration
