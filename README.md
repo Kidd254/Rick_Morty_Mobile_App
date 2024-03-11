@@ -32,8 +32,7 @@
 
 #  Rick_Morty_Mobile_App <a name="about-project"></a>
 
-**"Blog App"** is a website built with Ruby on Rails and PostgreSQL that allows users to create and publish posts, write comments, and like posts.
-
+**" Rick & Morty app"** is an app that is meant to display a list of characters, their residents and other details relevant to them. The app makes use of Rick & Morty API to retrieve relevant data for the app
 ---
 
 ## 🛠 Built With <a name="built-with"></a>
